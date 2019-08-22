@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+
+  <title>Diamond Da 40</title>
+  <line>______________________________________________</line>
+  <key>
+    <name>d</name>
+    <desc>Open/Close canopy</desc>
+  </key>
+  <key>
+    <name>D</name>
+    <desc>Open/Close passenger door</desc>
+  </key>
+  <key>
+    <name>l</name>
+    <desc>Landing lights on/off</desc>
+  </key> 
+  
+</PropertyList>

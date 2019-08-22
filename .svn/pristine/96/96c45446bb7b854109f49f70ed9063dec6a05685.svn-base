@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList include="da40-base.xml">
+
+  <sim>
+
+    <description>Diamond DA 40 (YASim)</description>
+    <author>Emmanuel BARANGER (3D/FDM)</author>
+    <flight-model archive="y">yasim</flight-model>
+    <aero archive="y">da40-yasim</aero>
+
+  </sim>
+
+</PropertyList>
