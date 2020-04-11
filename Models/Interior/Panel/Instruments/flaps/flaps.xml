@@ -78,7 +78,7 @@
         </greater-than>
         <less-than>
           <property>/controls/flight/flaps</property>
-          <value>0.390</value>
+          <value>0.690</value>
         </less-than>
       </and>
     </condition> 
@@ -90,7 +90,7 @@
     <condition>
       <greater-than> 
         <property>/controls/flight/flaps</property>
-        <value>0.699</value>
+        <value>0.599</value>
       </greater-than> 
     </condition> 
   </animation>
@@ -102,8 +102,8 @@
 
     <animation>
         <type>rotate</type>
-		<property>surface-positions/flap-pos-norm</property>
         <object-name>flapswitch</object-name>
+		<property>/controls/flight/flaps</property>
         <axis>
             <x>0.0</x>
             <y>1.0</y>
@@ -115,7 +115,7 @@
                 <dep>0.0</dep>
             </entry>
             <entry>
-                <ind>0.5</ind>
+                <ind>0.375</ind>
                 <dep>20</dep>
             </entry>
             <entry>
